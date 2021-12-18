@@ -1,0 +1,25 @@
+.bar {
+  background-color: grey;
+  color: white;
+  position: fixed;
+  height: 50px;
+  width: 100vw;
+  top: 5px;
+}
+.box {
+  height: 150vh;
+  width: 100vw;
+  background-color: red;
+}
+.box-2 {
+  height: 150vh;
+  width: 100vw;
+  background-color: salmon;
+  position: relative;
+}
+.box-3 {
+  height: 150vh;
+  width: 100vw;
+  background-color: pink;
+  position: relative;
+}
